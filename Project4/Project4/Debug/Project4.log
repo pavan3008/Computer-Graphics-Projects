@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(240,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(245,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(316,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(323,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(334,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(335,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(354,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(355,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(367,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(368,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(559,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(574,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(574,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(574,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(574,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(578,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(578,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(615,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(615,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(625,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(628,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(635,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Project4\main.cpp(644,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project4.vcxproj -> C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project4\Debug\Project4.exe
