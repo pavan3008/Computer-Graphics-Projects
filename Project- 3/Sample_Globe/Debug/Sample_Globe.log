@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(234,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(239,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(311,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(318,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(332,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(333,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(337,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(338,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(365,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(366,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(378,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(379,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Sample_Globe\main.cpp(505,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Sample_Globe.vcxproj -> C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\Projects\Sample_Globe\Debug\Sample_Globe.exe
