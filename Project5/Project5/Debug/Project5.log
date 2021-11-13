@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(179,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(252,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(368,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(369,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(372,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(373,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(353,12): warning C4101: 'V1': unreferenced local variable
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(352,12): warning C4101: 'Dt': unreferenced local variable
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(353,8): warning C4101: 'V0': unreferenced local variable
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(352,8): warning C4101: 'Ds': unreferenced local variable
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(353,16): warning C4101: 'V2': unreferenced local variable
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(558,39): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Project5\main.cpp(944,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project5.vcxproj -> C:\Users\nallagop\Desktop\Fall 2021\CS 550 Intro to Comp Graphics\ProjectMain\Project5\Debug\Project5.exe

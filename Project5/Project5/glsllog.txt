@@ -1,0 +1,10 @@
+
+WARNING: 0:2: '' :  #version directive missing
+ERROR: 0:3: '' : syntax error: #version must come before any other token
+WARNING: 0:34: 'assign' : implicit type conversion allowed from GLSL 1.20 
+WARNING: 0:49: 'assign' : implicit type conversion allowed from GLSL 1.20 
+WARNING: 0:49: 'assign' : implicit type conversion allowed from GLSL 1.20 
+WARNING: 0:50: 'assign' : implicit type conversion allowed from GLSL 1.20 
+WARNING: 0:50: 'assign' : implicit type conversion allowed from GLSL 1.20 
+
+
